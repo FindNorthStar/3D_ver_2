@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3D_ver_2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3D_ver_2Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcdrom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcdromcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpclosedcaption.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcontrols.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpdvd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmperror.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmperroritem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpmedia.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpmediacollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpnetwork.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplayer4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplayerapplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylistarray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylistcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpsettings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpstringcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Aboutbox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AngData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Conclusion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MediaDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SetSoundDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PicExampleDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SetTimeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SetIntervalDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GLU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Algor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3D_ver_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_ver_2Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcdrom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcdromcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpclosedcaption.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcontrols.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpdvd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmperror.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmperroritem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpmedia.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpmediacollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpnetwork.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplayer4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplayerapplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylistarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylistcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpsettings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpstringcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="版本.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Aboutbox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AngData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Conclusion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MediaDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SetSoundDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PicExampleDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SetTimeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SetIntervalDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Algor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="3D_ver_2.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\My3D_ver_2.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\3D_ver_2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\pos.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\textD.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\textF.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\textU.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\soundD.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\soundF.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\soundU.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\intervalD.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\intervalF.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\intervalU.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timeD.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timeF.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timeU.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\settime.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\tune.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\internal.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
