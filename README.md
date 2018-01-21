@@ -1,4 +1,4 @@
-##3D_ver_2
+## 3D_ver_2
 
 This is the project of Sitting Posture Detection System based on 3D Motion-sensing Camera, which was awarded with 3rd Prize at 7th Innovation Forum at Beijing University of Posts and Telecommunications in June, 2015.
 
